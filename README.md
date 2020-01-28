@@ -1,5 +1,6 @@
 # tabs
-Simple JS tabs
+
+
 
 
 Simple Javascript tabs:
